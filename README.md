@@ -53,4 +53,8 @@ The dataset consists of 46,181 labeled text samples collected from:
 🔹 Fine-tune Mistral for better performance on paraphrased content.  
 🔹 Deploy as a web app/API for real-time text classification.  
 🔹 Explainable AI (XAI) techniques for transparency in classification.  
- 
+
+ This project detects whether a given text is human-written, AI-generated, or paraphrased using state-of-the-art NLP models. The model is deployed on Hugging Face Spaces, allowing anyone to use it without installation.
+🔗 Try the Live Demo Here:
+👉 AI Content Detector on Hugging Face Spaces (https://huggingface.co/spaces/vai0511/ai-content-classifier-app)
+
