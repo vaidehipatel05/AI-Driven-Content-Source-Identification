@@ -1,4 +1,4 @@
-# **AI-Driven Content Source Identification  **
+# AI-Driven Content Source Identification  
 
 ### Overview  
 With the rapid advancement of AI tools like ChatGPT, Grammarly, and Perplexity, distinguishing between human-written and AI-generated text has become increasingly difficult. Traditional plagiarism detection methods are no longer sufficient to ensure content integrity, especially in academic and professional settings.  
